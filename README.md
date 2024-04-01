@@ -1,22 +1,41 @@
-# Tuwaiq Academy Dataset , Data Analysis Project
-[Raghad AlQithmi]([https://github.com/Maithaq](https://github.com/lRaghadl) , [Mana Al Aqeel](https://github.com/ManaSaleh)
-# Abstract
-In this project we used dataset from Kaggle called Jobs and Salaries in the Data Field. We used python and libraries for data cleaning, visualization and analysis in google Colab and DataSpell.
-we extracted meaningful insights from the data. 
-
- ## Tables of content
- DataSet, Google Colab 
+# Tuwaiq Academy Dataset - Data Analysis Project
+[Raghad AlQithmi](https://github.com/lRaghadl) & [Mana Al Aqeel](https://github.com/ManaSaleh)
+ # Abstract
+ Tuwaiq Academy in Saudi Arabia aims to develop a predictive model to identify the most promising candidates for advanced AI programs.
  
- ## DataSet
-The Jobs and Salaries dataset used in this project. The dataset contains these columns 
-('work_year', 'experience_level', 'employment_type', 'job_title',
-       'salary', 'salary_currency', 'salary_in_usd', 'employee_residence',
-       'work_setting', 'company_location', 'company_size', 'job_category'],
-      dtype='object'). You can find it in the repository. 
+ # Design
+ This project is one of the T5 Data Science BootCamp requirements. 
+ - Data provided by from [Kaggle](https://www.kaggle.com/competitions/measuring-student-persistence-and-completion-rate).
+  # Data
+  The data for this project will be read into a CSV file, The dataset Contains 24: features, and 6548:ID.
+  # Data Analysis Workflow :
+  ![alt text](http://url/to/data analysis workflow.png)
+  
+1. ASk
 
- ## Google Colab 
- We used python and some libraries including:
-* pandas 
-* numpy
-* matplotlib
-* seaborn
+2. Prepare
+
+3. Process
+   
+5. Analyze
+
+6. Act
+
+
+# Tools 
+ *Library:* 
+- Python 
+- Numpy
+- Pandas
+- Sklearn
+- Seaborn
+- matplotlib
+- plotly
+-MinMaxScale
+-LabelEncoder
+-OrdinalEncoder
+
+
+# Deployment 
+- Therefore, the project will predicting specific criteria to define “success” in the context of task completion
+Rigorous training curriculum?  [Tuwaiq Academy](https://github.com/ManaSaleh/Data-Analysis-Project/blob/main/DataTuwaiq.ipynb)
