@@ -1,0 +1,21 @@
+1- Train csv
+'Student ID', 'Age', 'Gender', 'Home Region', 'Home City', 'Program ID',
+       'Program Main Category Code', 'Program Sub Category Code',
+       'Technology Type', 'Program Skill Level', 'Program Presentation Method',
+       'Program Start Date', 'Program End Date', 'Program Days',
+       'Completed Degree', 'Level of Education', 'Education Speaciality',
+       'College', 'University Degree Score', 'University Degree Score System',
+       'Employment Status', 'Job Type', 'Still Working', 'Y'
+2- Test csv
+'Student ID', 'Age', 'Gender', 'Home Region', 'Home City', 'Program ID',
+       'Program Main Category Code', 'Program Sub Category Code',
+       'Technology Type', 'Program Skill Level', 'Program Presentation Method',
+       'Program Start Date', 'Program End Date', 'Program Days',
+       'Completed Degree', 'Level of Education', 'Education Speaciality',
+       'College', 'University Degree Score', 'University Degree Score System',
+       'Employment Status', 'Job Type', 'Still Working'
+3- Registration csv
+Student ID', 'PCRF', 'GRST', 'CAUF', 'INFA', 'ABIR', 'SERU', 'TOSL',
+       'APMR', 'DTFH', 'QWLM', 'N/A', 'Total Regestration'
+4- Sample_submission
+'ID', 'Y'
